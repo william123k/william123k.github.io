@@ -1,0 +1,6 @@
+/*Para enpequeña el container de login a un 30%*/
+@media(min-width: 800px){
+    .container{
+        max-width: 30%;
+    }
+}
